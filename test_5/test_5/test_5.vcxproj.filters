@@ -18,5 +18,8 @@
     <ClCompile Include="test_5.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="全局变量.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

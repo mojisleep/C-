@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F45D59F3-F1A5-4188-B1AF-FE74C058CDAE}|test_5\\test_5.vcxproj|C:\\\u6211\u7684\\c\\c-language\\test_5\\test_5\\test_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F45D59F3-F1A5-4188-B1AF-FE74C058CDAE}|test_5\\test_5.vcxproj|solutionrelative:test_5\\test_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F45D59F3-F1A5-4188-B1AF-FE74C058CDAE}|test_5\\test_5.vcxproj|C:\\\u6211\u7684\\c\\c-language\\test_5\\test_5\\\u5168\u5C40\u53D8\u91CF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F45D59F3-F1A5-4188-B1AF-FE74C058CDAE}|test_5\\test_5.vcxproj|solutionrelative:test_5\\\u5168\u5C40\u53D8\u91CF.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +21,17 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5168\u5C40\u53D8\u91CF.c",
+              "DocumentMoniker": "C:\\\u6211\u7684\\c\\c-language\\test_5\\test_5\\\u5168\u5C40\u53D8\u91CF.c",
+              "RelativeDocumentMoniker": "test_5\\\u5168\u5C40\u53D8\u91CF.c",
+              "ToolTip": "C:\\\u6211\u7684\\c\\c-language\\test_5\\test_5\\\u5168\u5C40\u53D8\u91CF.c",
+              "RelativeToolTip": "test_5\\\u5168\u5C40\u53D8\u91CF.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-10T08:27:38.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +41,7 @@
               "RelativeDocumentMoniker": "test_5\\test_5.c",
               "ToolTip": "C:\\\u6211\u7684\\c\\c-language\\test_5\\test_5\\test_5.c",
               "RelativeToolTip": "test_5\\test_5.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAiwIoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-10T04:48:23.043Z",
               "EditorCaption": ""
