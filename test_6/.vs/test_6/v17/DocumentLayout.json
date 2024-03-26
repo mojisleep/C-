@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\\u6211\u7684\\c\\c-language\\test_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0E5F4CC-E4B7-4613-A623-91716C69B97D}|test_6\\test_6.vcxproj|C:\\\u6211\u7684\\c\\c-language\\test_6\\test_6\\test_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B0E5F4CC-E4B7-4613-A623-91716C69B97D}|test_6\\test_6.vcxproj|solutionrelative:test_6\\test_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B0E5F4CC-E4B7-4613-A623-91716C69B97D}|test_6\\test_6.vcxproj|C:\\\u6211\u7684\\c\\c-language\\test_6\\test_6\\test_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0E5F4CC-E4B7-4613-A623-91716C69B97D}|test_6\\test_6.vcxproj|solutionrelative:test_6\\test_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +19,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "test_5.c",
-              "DocumentMoniker": "C:\\\u6211\u7684\\c\\c-language\\test_6\\test_6\\test_5.c",
-              "RelativeDocumentMoniker": "test_6\\test_5.c",
-              "ToolTip": "C:\\\u6211\u7684\\c\\c-language\\test_6\\test_6\\test_5.c",
-              "RelativeToolTip": "test_6\\test_5.c",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAIwKMAAAADAAAA",
+              "Title": "test_6.c",
+              "DocumentMoniker": "C:\\\u6211\u7684\\c\\c-language\\test_6\\test_6\\test_6.c",
+              "RelativeDocumentMoniker": "test_6\\test_6.c",
+              "ToolTip": "C:\\\u6211\u7684\\c\\c-language\\test_6\\test_6\\test_6.c",
+              "RelativeToolTip": "test_6\\test_6.c",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAgwL4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-23T09:14:06.916Z",
               "EditorCaption": ""

@@ -136,7 +136,7 @@
 //
 
 
-#include <stdio.h>
+//#include <stdio.h>
 //
 //int main()
 //{
@@ -162,3 +162,30 @@
 //    printf("m = %d, n = %d\n", m, n);
 //    return 0;
 //}
+
+//int main()
+//{
+//	int ch = getchar();
+//	printf("%c\n", ch);
+//	putchar(ch);
+//	return 0;
+//}
+
+int main()
+{
+	char password[20] = { "0" };
+	printf("ÇëÊäÈëÃÜÂë:");
+	scanf("%s", password);
+	getchar();//³Ôµô\n.
+	printf("ÇëÈ·ÈÏÃÜÂë(Y/N)");
+	int ret = getchar();
+	if ('Y' == ret)
+	{
+		printf("YES\n");
+	}
+	else
+	{
+		printf("NO\n");
+	}
+	return 0;
+}
