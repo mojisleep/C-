@@ -166,26 +166,39 @@
 //int main()
 //{
 //	int ch = getchar();
+// EOF:end of file   (-1)
 //	printf("%c\n", ch);
 //	putchar(ch);
 //	return 0;
 //}
 
-int main()
-{
-	char password[20] = { "0" };
-	printf("ÇëÊäÈëÃÜÂë:");
-	scanf("%s", password);
-	getchar();//³Ôµô\n.
-	printf("ÇëÈ·ÈÏÃÜÂë(Y/N)");
-	int ret = getchar();
-	if ('Y' == ret)
-	{
-		printf("YES\n");
-	}
-	else
-	{
-		printf("NO\n");
-	}
-	return 0;
-}
+//int main()
+//{
+//	char password[20] = { "0" };
+//	printf("ÇëÊäÈëÃÜÂë:");
+//	scanf("%s", password);
+//	getchar();//³Ôµô\n
+//	printf("ÇëÈ·ÈÏÃÜÂë(Y/N)");
+//	int ret = getchar();
+//	if ('Y' == ret)
+//	{
+//		printf("YES\n");
+//	}
+//	else
+//	{
+//		printf("NO\n");
+//	}
+//	return 0;
+//}
+
+//int main()
+//{
+//	char ch = '\0';
+//	while ((ch = getchar()) != EOF)
+//	{
+//		if (ch < '0' || ch>'9')
+//			continue;
+//		putchar(ch);//Ö»´òÓ¡Êı×Ö
+//	}
+//	return 0;
+//}
